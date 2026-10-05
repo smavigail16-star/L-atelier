@@ -1,0 +1,3 @@
+L'Atelier d'Avigail - version installable
+
+Mettez ces fichiers en ligne (par ex. GitHub Pages), ouvrez l'adresse dans Edge ou Chrome, puis « Installer l'application ».
